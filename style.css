@@ -35,9 +35,10 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+    transition: ease-in-out .3s;
 }
 .link-button:hover{
-    padding: 15px 50px;
+    padding: 13px 45px;
     font-size: 22px;
     border-radius: 8px;
 }
@@ -72,7 +73,7 @@ section{
     transition: .4s;
 }
 .experience-area:hover{
-    background-color: rgb(202, 225, 243);
+    background-color: paleturquoise;
     padding: 27px;
 }
 #experience-item{
